@@ -1,0 +1,11 @@
+cer/
+├── index.html                  ← Página inicial
+├── nossa-historia.html         ← Com texto espiritualista (do PDF)
+├── contato.html                ← Endereço, WhatsApp, mapa e redes sociais
+├── pedido-de-oracao.html       ← Formulário básico
+├── a-nos-todos.html            ← A mensagem "Somos uma realidade!"
+├── depoimentos.html            ← Modelo vazio pra preencher depois
+├── css/
+│   └── estilo.css              ← Estilização centralizada
+└── imagens/
+    └── logo.png                ← Você pode substituir pelo logo real depois
