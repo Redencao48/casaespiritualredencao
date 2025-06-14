@@ -1,3 +1,0 @@
-cer/
-└── imagens/
-    └── logo.png
